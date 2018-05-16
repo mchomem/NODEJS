@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1
+        , "name" : "Balde"
+        , "value" : 10.00
+        , "active": 1
+    }
+    , {
+        "id": 1
+        , "name" : "Vassoura"
+        , "value" : 7.00
+        , "active": 1
+    }
+    , {
+        "id": 1
+        , "name" : "Esfregrão"
+        , "value" : 1.5
+        , "active": 1
+    }
+    , {
+        "id": 1
+        , "name" : "Sãbão em pó"
+        , "value" : 14.50
+        , "active": 1
+    }
+]

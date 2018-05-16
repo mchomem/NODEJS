@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1
+        , "name" : "Javascript for Champions"
+        , "isbn" : 1028490128490128
+    }
+    , {
+        "id": 1
+        , "name" : "C# for Beginners"
+        , "isbn" : 20395820968203966
+    }
+    , {
+        "id": 1
+        , "name" : "ASP.NET in a nutshell"
+        , "isbn" : 5129570970937490397
+    }
+    , {
+        "id": 1
+        , "name" : "PHP for minds"
+        , "isbn" : 1493095839058903
+    }
+    , {
+        "id": 1
+        , "name" : "Java it not death!"
+        , "isbn" : 565089659083498
+    }
+]
