@@ -39,7 +39,7 @@ var appRouter = function (app) {
 
     app.get('/get-customers-with-sqlquery', function(req, res) {
 
-        const connStr = "Server=localhost\\SQLEXPRESS;Database=DBNODEJS;User Id=sa;Password=conectt@2012;";
+        const connStr = "Server=localhost\\SQL2017;Database=DBNODEJS;User Id=sa;Password=conectt@2012;";
 
         sql.close()
 
@@ -58,7 +58,7 @@ var appRouter = function (app) {
     app.get('/get-customers-with-sqlquery-v1', function(req, res) {
 
         // Connection string
-        const config = "Server=localhost\\SQLEXPRESS;Database=Test;User Id=sa;Password=conectt@2012;";
+        const config = "Server=localhost\\SQL2017;Database=Test;User Id=sa;Password=conectt@2012;";
         
         sql.close()
 
@@ -83,7 +83,7 @@ var appRouter = function (app) {
         const config = {
             user: 'sa'
             , password: 'conectt@2012'
-            , server: 'localhost\\SQLEXPRESS'
+            , server: 'localhost\\SQL2017'
             , database: 'DBNODEJS'
         }
 
@@ -110,7 +110,7 @@ var appRouter = function (app) {
         const config = {
             user: 'sa'
             , password: 'conectt@2012'
-            , server: 'localhost\\SQLEXPRESS'
+            , server: 'localhost\\SQL2017'
             , database: 'DBNODEJS'
         }
 
@@ -141,7 +141,7 @@ var appRouter = function (app) {
         const config = {
             user: 'sa'
             , password: 'conectt@2012'
-            , server: 'localhost\\SQLEXPRESS'
+            , server: 'localhost\\SQL2017'
             , database: 'DBNODEJS'
         }
 

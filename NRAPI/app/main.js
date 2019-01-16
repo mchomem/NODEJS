@@ -3,7 +3,7 @@ var bodyParser = require('body-parser')
 var moment = require('./lib/moment.js')
 var routes = require('./routes/routes.js')
 var app = express()
-var server = '192.168.0.65'
+var server = 'localhost'
 var port = 50010
 
 app.use(bodyParser.json())
