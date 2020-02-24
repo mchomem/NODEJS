@@ -1,3 +1,3 @@
 # NODEJS
 
-Backend escrito em node.js, utilizando uma bibliotéca para interação com base de dados do Microsoft Sql Server.
+Backend written in node.js, using a library to interact with Microsoft Sql Server database.
